@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @pittsCourt
 - 👀 I’m interested in web development, analytics, and programming.
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on small projects to help me improve my skills.
-- 📫 How to reach me via email at pitts.court@gmail.com
+- 🌱 I’m currently learning TypeScript and Golang
 
 <!---
 pittsCourt/pittsCourt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
