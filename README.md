@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @pittsCourt
-- 👀 I’m interested in web development, analytics, and programming.
-- 🌱 I’m currently learning TypeScript and Golang
+Software QA Engineer @ DigiCert | I build test automation with Go & Playwright, wrangle Kubernetes with Rancher/k9s, and write tooling in JavaScript/TypeScript. I’ve worked on data validation tools using APIs, and love making tests that actually catch things. Currently learning Python & cybersecurity (CompTIA Sec+). Always building, always curious.
 
 <!---
 pittsCourt/pittsCourt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
